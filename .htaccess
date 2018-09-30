@@ -1,0 +1,5 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /NBSlay/you2doudoubing/master/web/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
